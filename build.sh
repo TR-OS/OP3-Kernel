@@ -26,13 +26,13 @@
 	dc=HD_defconfig
 
 # Source Path to kernel tree
-	k=/home/holyangel/android/Kernels/msm8996
+	k=/home/tr/Dokumente/Android/Kernel/OP3-HDK-Extended
 
 # Source Path to clean(empty) out folder
 	co=$k/out
 
 # Compile Path to out 
-	o="O=/home/holyangel/android/Kernels/msm8996/out"
+	o="O=/home/tr/Dokumente/Android/Kernel/OP3-HDK-Extended/out"
 
 # Source Path to compiled Image.gz-dtb
 	i=$k/out/arch/arm64/boot/Image.gz-dtb
@@ -51,7 +51,7 @@
 
 # Kernel zip Name
 ##############################
-	kn=HDK_OP3_AK2_OMNI_V0.1.6.zip
+	kn=HDK-Extended-OP3-R1.zip
 
 ############################################################
 # Cleanup

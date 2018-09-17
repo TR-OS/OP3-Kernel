@@ -27,13 +27,13 @@
 	dc=HD_defconfig
 
 # Source Path to kernel tree
-	k=/home/holyangel/android/Kernels/msm8996
+	k=/home/tr/Dokumente/Android/Kernel/OP3-HDK-Extended
 
 # Source Path to clean(empty) out folder
 	co=$k/out
 
 # Compile Path to out 
-	o="O=/home/holyangel/android/Kernels/msm8996/out"
+	o="O=/home/tr/Dokumente/Android/Kernel/OP3-HDK-Extended/out"
 
 ############################################################
 # Start Compile

@@ -1,5 +1,5 @@
 ui_print(" ");
-ui_print("~*~*~ HolyDragon Kernel for OP3/3T ~*~*~");
+ui_print("~*~*~ HDK-Extended Kernel for OP3/3T ~*~*~");
 ui_print(" ");
 ui_print("Extracting installer..");
 package_extract_dir("kernel", "/tmp");
